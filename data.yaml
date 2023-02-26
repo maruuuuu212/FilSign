@@ -1,0 +1,51 @@
+names:
+- A
+- B
+- Boss
+- C
+- D
+- E
+- F
+- Father
+- G
+- Good
+- H
+- I
+- J
+- L
+- M
+- Me
+- Mine
+- Mother
+- N
+- O
+- Onion
+- P
+- Q
+- Quiet
+- R
+- Responsible
+- S
+- Serious
+- T
+- Think
+- This
+- U
+- V
+- W
+- Wait
+- Water
+- X
+- Y
+- You
+- Z
+nc: 40
+roboflow:
+  license: CC BY 4.0
+  project: filipino-sign-language-dataset
+  url: https://universe.roboflow.com/ag-ddrlv/filipino-sign-language-dataset/dataset/1
+  version: 1
+  workspace: ag-ddrlv
+test: ../test/images
+train: Filipino-Sign-Language-Dataset-1/train/images
+val: Filipino-Sign-Language-Dataset-1/valid/images
